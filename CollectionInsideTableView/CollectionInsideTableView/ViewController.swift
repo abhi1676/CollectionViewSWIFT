@@ -20,7 +20,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
 
     
     
-//this is updated msg by pratik.
+//this is updated msg by pratik.ifius
     @IBOutlet var table: UITableView!
     override func viewDidLoad() {
         super.viewDidLoad()
